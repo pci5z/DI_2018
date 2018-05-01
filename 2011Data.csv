@@ -1,0 +1,903 @@
+Notes,County,County Code,Deaths,Population,Crude Rate,Age Adjusted Rate
+,"Baldwin County, AL",1003,24,186717,12.9,13.3
+,"Calhoun County, AL",1015,14,117797,Unreliable,Unreliable
+,"Cullman County, AL",1043,10,80536,Unreliable,Unreliable
+,"DeKalb County, AL",1049,11,71375,Unreliable,Unreliable
+,"Escambia County, AL",1053,16,38095,Unreliable,Unreliable
+,"Etowah County, AL",1055,15,104303,Unreliable,Unreliable
+,"Houston County, AL",1069,13,102369,Unreliable,Unreliable
+,"Jefferson County, AL",1073,85,658931,12.9,13.2
+,"Lauderdale County, AL",1077,12,92781,Unreliable,Unreliable
+,"Limestone County, AL",1083,10,85369,Unreliable,Unreliable
+,"Madison County, AL",1089,30,340111,8.8,9
+,"Mobile County, AL",1097,48,412577,11.6,11.7
+,"Morgan County, AL",1103,16,119953,Unreliable,Unreliable
+,"St. Clair County, AL",1115,18,84398,Unreliable,Unreliable
+,"Shelby County, AL",1117,27,197936,13.6,13.5
+,"Tuscaloosa County, AL",1125,22,197211,11.2,11.9
+,"Walker County, AL",1127,37,66661,55.5,58.7
+,"Anchorage Borough, AK",2020,52,295570,17.6,17.3
+,"Fairbanks North Star Borough, AK",2090,10,99192,Unreliable,Unreliable
+,"Matanuska-Susitna Borough, AK",2170,19,91946,Unreliable,Unreliable
+,"Coconino County, AZ",4005,22,134511,16.4,14.4
+,"Maricopa County, AZ",4013,627,3880244,16.2,16.2
+,"Mohave County, AZ",4015,57,202351,28.2,29
+,"Navajo County, AZ",4017,17,107398,Unreliable,Unreliable
+,"Pima County, AZ",4019,193,989569,19.5,20.9
+,"Pinal County, AZ",4021,44,382992,11.5,11.7
+,"Yavapai County, AZ",4025,59,211888,27.8,32.2
+,"Yuma County, AZ",4027,23,200870,11.5,12.4
+,"Benton County, AR",5007,28,227556,12.3,13
+,"Craighead County, AR",5031,13,98315,Unreliable,Unreliable
+,"Crawford County, AR",5033,19,61944,Unreliable,Unreliable
+,"Faulkner County, AR",5045,14,116342,Unreliable,Unreliable
+,"Garland County, AR",5051,21,97124,21.6,24.1
+,"Pope County, AR",5115,10,62331,Unreliable,Unreliable
+,"Pulaski County, AR",5119,41,386299,10.6,10.9
+,"Saline County, AR",5125,15,109526,Unreliable,Unreliable
+,"Sebastian County, AR",5131,18,127127,Unreliable,Unreliable
+,"Washington County, AR",5143,19,207521,Unreliable,Unreliable
+,"Alameda County, CA",6001,168,1529875,11,10
+,"Amador County, CA",6005,10,37953,Unreliable,Unreliable
+,"Butte County, CA",6007,84,220266,38.1,36.6
+,"Calaveras County, CA",6009,15,45052,Unreliable,Unreliable
+,"Contra Costa County, CA",6013,122,1066096,11.4,10.5
+,"El Dorado County, CA",6017,35,180938,19.3,18.3
+,"Fresno County, CA",6019,90,942904,9.5,10.2
+,"Humboldt County, CA",6023,57,134761,42.3,41.4
+,"Imperial County, CA",6025,23,177057,13,13.5
+,"Kern County, CA",6029,151,851710,17.7,18.6
+,"Kings County, CA",6031,14,153765,Unreliable,Unreliable
+,"Lake County, CA",6033,34,64323,52.9,46.3
+,"Lassen County, CA",6035,13,34200,Unreliable,Unreliable
+,"Los Angeles County, CA",6037,684,9889056,6.9,6.7
+,"Madera County, CA",6039,24,152925,15.7,16.2
+,"Marin County, CA",6041,21,255031,8.2,7.7
+,"Mendocino County, CA",6045,17,87553,Unreliable,Unreliable
+,"Merced County, CA",6047,34,259898,13.1,14.6
+,"Monterey County, CA",6053,47,421898,11.1,11.5
+,"Napa County, CA",6055,18,138088,Unreliable,Unreliable
+,"Nevada County, CA",6057,14,98612,Unreliable,Unreliable
+,"Orange County, CA",6059,319,3055745,10.4,10
+,"Placer County, CA",6061,26,357138,7.3,7.3
+,"Riverside County, CA",6065,254,2239620,11.3,11.5
+,"Sacramento County, CA",6067,213,1436105,14.8,14.6
+,"San Bernardino County, CA",6071,111,2065377,5.4,5.3
+,"San Diego County, CA",6073,415,3140069,13.2,12.7
+,"San Francisco County, CA",6075,194,812826,23.9,21.5
+,"San Joaquin County, CA",6077,134,696214,19.2,19.4
+,"San Luis Obispo County, CA",6079,42,271969,15.4,15.4
+,"San Mateo County, CA",6081,66,727209,9.1,8.1
+,"Santa Barbara County, CA",6083,42,426878,9.8,10.4
+,"Santa Clara County, CA",6085,144,1809378,8,7.5
+,"Santa Cruz County, CA",6087,56,264298,21.2,20.2
+,"Shasta County, CA",6089,53,177774,29.8,28.1
+,"Siskiyou County, CA",6093,12,44507,Unreliable,Unreliable
+,"Solano County, CA",6095,58,416471,13.9,13.7
+,"Sonoma County, CA",6097,50,488116,10.2,9.5
+,"Stanislaus County, CA",6099,82,518522,15.8,15.4
+,"Sutter County, CA",6101,14,94919,Unreliable,Unreliable
+,"Tehama County, CA",6103,13,63601,Unreliable,Unreliable
+,"Tulare County, CA",6107,34,449253,7.6,8.8
+,"Tuolumne County, CA",6109,14,54953,Unreliable,Unreliable
+,"Ventura County, CA",6111,111,831771,13.3,13.5
+,"Yolo County, CA",6113,20,202054,9.9,11.1
+,"Adams County, CO",8001,93,451443,20.6,20.2
+,"Arapahoe County, CO",8005,82,584948,14,13.7
+,"Boulder County, CO",8013,40,299378,13.4,12.8
+,"Denver County, CO",8031,163,619968,26.3,26.1
+,"Douglas County, CO",8035,28,292167,9.6,10.3
+,"El Paso County, CO",8041,99,636963,15.5,15.3
+,"Garfield County, CO",8045,11,56270,Unreliable,Unreliable
+,"Jefferson County, CO",8059,73,539884,13.5,13.5
+,"Larimer County, CO",8069,53,305525,17.3,17.1
+,"Mesa County, CO",8077,33,147083,22.4,22.9
+,"Pueblo County, CO",8101,32,160545,19.9,22.4
+,"Weld County, CO",8123,34,258638,13.1,14.1
+,"Fairfield County, CT",9001,70,925899,7.6,7.8
+,"Hartford County, CT",9003,95,894705,10.6,10.4
+,"Litchfield County, CT",9005,16,188789,Unreliable,Unreliable
+,"Middlesex County, CT",9007,22,166043,13.2,12.8
+,"New Haven County, CT",9009,130,861113,15.1,15
+,"New London County, CT",9011,39,273502,14.3,14.5
+,"Tolland County, CT",9013,13,152507,Unreliable,Unreliable
+,"Windham County, CT",9015,17,118151,Unreliable,Unreliable
+,"Kent County, DE",10001,33,164834,20,20.5
+,"New Castle County, DE",10003,88,541971,16.2,15.9
+,"Sussex County, DE",10005,39,200330,19.5,20.1
+,"District of Columbia, DC",11001,86,617996,13.9,13.5
+,"Alachua County, FL",12001,25,249365,10,11.8
+,"Bay County, FL",12005,12,169856,Unreliable,Unreliable
+,"Brevard County, FL",12009,125,543566,23,24.3
+,"Broward County, FL",12011,242,1780172,13.6,12.8
+,"Charlotte County, FL",12015,11,160511,Unreliable,Unreliable
+,"Citrus County, FL",12017,37,140031,26.4,34.3
+,"Clay County, FL",12019,27,192370,14,13.5
+,"Collier County, FL",12021,44,328134,13.4,15.4
+,"Duval County, FL",12031,149,870709,17.1,16.5
+,"Escambia County, FL",12033,34,299114,11.4,11.7
+,"Flagler County, FL",12035,18,97376,Unreliable,Unreliable
+,"Hernando County, FL",12053,41,173094,23.7,27.6
+,"Highlands County, FL",12055,21,98630,21.3,21.3
+,"Hillsborough County, FL",12057,245,1267775,19.3,18.6
+,"Indian River County, FL",12061,25,138894,18,20.7
+,"Lake County, FL",12069,43,301019,14.3,16
+,"Lee County, FL",12071,96,631330,15.2,17.3
+,"Leon County, FL",12073,15,277971,Unreliable,Unreliable
+,"Manatee County, FL",12081,75,327142,22.9,26.5
+,"Marion County, FL",12083,52,332529,15.6,17.8
+,"Martin County, FL",12085,28,147495,19,21.5
+,"Miami-Dade County, FL",12086,123,2554766,4.8,4.6
+,"Monroe County, FL",12087,24,73873,32.5,28.5
+,"Nassau County, FL",12089,13,74195,Unreliable,Unreliable
+,"Okaloosa County, FL",12091,22,183482,12,11.6
+,"Okeechobee County, FL",12093,13,40140,Unreliable,Unreliable
+,"Orange County, FL",12095,151,1169107,12.9,12.5
+,"Osceola County, FL",12097,40,276163,14.5,14.8
+,"Palm Beach County, FL",12099,211,1335187,15.8,16.3
+,"Pasco County, FL",12101,150,466457,32.2,34.3
+,"Pinellas County, FL",12103,251,917398,27.4,28.2
+,"Polk County, FL",12105,114,609492,18.7,18.8
+,"Putnam County, FL",12107,19,74041,Unreliable,Unreliable
+,"St. Johns County, FL",12109,22,195823,11.2,12.6
+,"St. Lucie County, FL",12111,48,280379,17.1,18.3
+,"Santa Rosa County, FL",12113,25,154104,16.2,15.1
+,"Sarasota County, FL",12115,85,382213,22.2,26.4
+,"Seminole County, FL",12117,60,425071,14.1,13.5
+,"Volusia County, FL",12127,90,494804,18.2,18.9
+,"Bartow County, GA",13015,19,100421,Unreliable,Unreliable
+,"Bibb County, GA",13021,20,156433,12.8,13.5
+,"Camden County, GA",13039,10,50410,Unreliable,Unreliable
+,"Carroll County, GA",13045,25,111159,22.5,23
+,"Catoosa County, GA",13047,10,64530,Unreliable,Unreliable
+,"Chatham County, GA",13051,25,271544,9.2,9.6
+,"Cherokee County, GA",13057,24,218286,11,10.4
+,"Clarke County, GA",13059,15,117344,Unreliable,Unreliable
+,"Clayton County, GA",13063,22,261532,8.4,8.5
+,"Cobb County, GA",13067,77,697553,11,10.5
+,"Columbia County, GA",13073,11,128112,Unreliable,Unreliable
+,"Coweta County, GA",13077,15,129629,Unreliable,Unreliable
+,"DeKalb County, GA",13089,46,699893,6.6,6.2
+,"Douglas County, GA",13097,15,133355,Unreliable,Unreliable
+,"Fayette County, GA",13113,11,107784,Unreliable,Unreliable
+,"Floyd County, GA",13115,15,95989,Unreliable,Unreliable
+,"Forsyth County, GA",13117,28,181840,15.4,15.9
+,"Fulton County, GA",13121,98,949599,10.3,10
+,"Gordon County, GA",13129,13,55621,Unreliable,Unreliable
+,"Gwinnett County, GA",13135,46,824941,5.6,5.3
+,"Hall County, GA",13139,25,183052,13.7,14.4
+,"Henry County, GA",13151,33,207360,15.9,15.7
+,"Jackson County, GA",13157,11,61257,Unreliable,Unreliable
+,"Murray County, GA",13213,16,39557,Unreliable,Unreliable
+,"Muscogee County, GA",13215,21,194107,10.8,10.7
+,"Newton County, GA",13217,15,100814,Unreliable,Unreliable
+,"Paulding County, GA",13223,22,143542,15.3,14.6
+,"Richmond County, GA",13245,25,201217,12.4,11.5
+,"Rockdale County, GA",13247,11,85765,Unreliable,Unreliable
+,"Troup County, GA",13285,14,67764,Unreliable,Unreliable
+,"Walker County, GA",13295,12,68848,Unreliable,Unreliable
+,"Whitfield County, GA",13313,15,103184,Unreliable,Unreliable
+,"Hawaii County, HI",15001,23,186738,12.3,12.2
+,"Honolulu County, HI",15003,115,963607,11.9,11.4
+,"Maui County, HI",15009,38,156674,24.3,21.5
+,"Ada County, ID",16001,51,400842,12.7,12.7
+,"Bannock County, ID",16005,17,83691,Unreliable,Unreliable
+,"Bonneville County, ID",16019,14,105772,Unreliable,Unreliable
+,"Canyon County, ID",16027,20,191694,10.4,11.2
+,"Kootenai County, ID",16055,12,141132,Unreliable,Unreliable
+,"Twin Falls County, ID",16083,17,78005,Unreliable,Unreliable
+,"Champaign County, IL",17019,24,201685,11.9,14
+,"Cook County, IL",17031,503,5217080,9.6,9.6
+,"DeKalb County, IL",17037,11,104743,Unreliable,Unreliable
+,"DuPage County, IL",17043,88,923222,9.5,9.1
+,"Kane County, IL",17089,50,520271,9.6,9.8
+,"Kankakee County, IL",17091,15,113698,Unreliable,Unreliable
+,"Kendall County, IL",17093,11,116631,Unreliable,Unreliable
+,"Lake County, IL",17097,87,706222,12.3,12.5
+,"LaSalle County, IL",17099,26,113518,22.9,23.7
+,"McHenry County, IL",17111,33,308944,10.7,11
+,"McLean County, IL",17113,14,170556,Unreliable,Unreliable
+,"Madison County, IL",17119,55,268459,20.5,20.7
+,"Peoria County, IL",17143,35,186834,18.7,19
+,"Rock Island County, IL",17161,17,147556,Unreliable,Unreliable
+,"St. Clair County, IL",17163,37,270259,13.7,14.5
+,"Sangamon County, IL",17167,24,198844,12.1,11
+,"Tazewell County, IL",17179,18,135661,Unreliable,Unreliable
+,"Will County, IL",17197,79,681545,11.6,11.7
+,"Williamson County, IL",17199,13,66622,Unreliable,Unreliable
+,"Winnebago County, IL",17201,39,293993,13.3,14.1
+,"Allen County, IN",18003,32,358327,8.9,9.3
+,"Clark County, IN",18019,30,111570,26.9,27.5
+,"Dearborn County, IN",18029,13,50113,Unreliable,Unreliable
+,"Delaware County, IN",18035,20,117660,17,19.6
+,"Elkhart County, IN",18039,19,198941,Unreliable,Unreliable
+,"Floyd County, IN",18043,14,74989,Unreliable,Unreliable
+,"Grant County, IN",18053,19,69793,Unreliable,Unreliable
+,"Hamilton County, IN",18057,22,282810,7.8,8.1
+,"Hendricks County, IN",18063,19,147979,Unreliable,Unreliable
+,"Howard County, IN",18067,22,82800,26.6,26.7
+,"Johnson County, IN",18081,19,141656,Unreliable,Unreliable
+,"Lake County, IN",18089,23,495558,4.6,4.8
+,"La Porte County, IN",18091,24,111374,21.5,22.8
+,"Madison County, IN",18095,44,131235,33.5,34.6
+,"Marion County, IN",18097,157,911296,17.2,17
+,"Marshall County, IN",18099,10,47050,Unreliable,Unreliable
+,"Monroe County, IN",18105,19,139799,Unreliable,Unreliable
+,"Montgomery County, IN",18107,12,38441,Unreliable,Unreliable
+,"Morgan County, IN",18109,12,69464,Unreliable,Unreliable
+,"Porter County, IN",18127,24,165537,14.5,14.7
+,"St. Joseph County, IN",18141,42,266700,15.7,16.9
+,"Scott County, IN",18143,17,23987,Unreliable,Unreliable
+,"Starke County, IN",18149,10,23199,Unreliable,Unreliable
+,"Tippecanoe County, IN",18157,25,174724,14.3,14.6
+,"Vanderburgh County, IN",18163,52,180305,28.8,28.1
+,"Vigo County, IN",18167,19,108182,Unreliable,Unreliable
+,"Wayne County, IN",18177,15,68643,Unreliable,Unreliable
+,"Linn County, IA",19113,22,213875,10.3,9.9
+,"Polk County, IA",19153,57,437399,13,13
+,"Pottawattamie County, IA",19155,11,93518,Unreliable,Unreliable
+,"Scott County, IA",19163,28,167095,16.8,17.2
+,"Woodbury County, IA",19193,10,102509,Unreliable,Unreliable
+,"Douglas County, KS",20045,12,112211,Unreliable,Unreliable
+,"Johnson County, KS",20091,44,552991,8,7.9
+,"Leavenworth County, KS",20103,13,77176,Unreliable,Unreliable
+,"Sedgwick County, KS",20173,58,501076,11.6,11.8
+,"Shawnee County, KS",20177,26,178941,14.5,15.9
+,"Wyandotte County, KS",20209,18,158224,Unreliable,Unreliable
+,"Bell County, KY",21013,17,28725,Unreliable,Unreliable
+,"Boone County, KY",21015,22,121737,18.1,17.9
+,"Boyd County, KY",21019,12,49466,Unreliable,Unreliable
+,"Bullitt County, KY",21029,13,75109,Unreliable,Unreliable
+,"Campbell County, KY",21037,34,90940,37.4,37.9
+,"Clark County, KY",21049,13,35537,Unreliable,Unreliable
+,"Clay County, KY",21051,25,21720,115.1,114.8
+,"Daviess County, KY",21059,11,97234,Unreliable,Unreliable
+,"Fayette County, KY",21067,57,301569,18.9,19.1
+,"Floyd County, KY",21071,38,39207,96.9,103.9
+,"Grayson County, KY",21085,12,25957,Unreliable,Unreliable
+,"Hardin County, KY",21093,11,107456,Unreliable,Unreliable
+,"Harlan County, KY",21095,11,29060,Unreliable,Unreliable
+,"Hopkins County, KY",21107,10,46909,Unreliable,Unreliable
+,"Jefferson County, KY",21111,143,746906,19.1,19.4
+,"Johnson County, KY",21115,19,23396,Unreliable,Unreliable
+,"Kenton County, KY",21117,58,160406,36.2,37.7
+,"Knox County, KY",21121,23,31888,72.1,79.4
+,"Laurel County, KY",21125,21,59355,35.4,34.8
+,"Letcher County, KY",21133,20,24446,81.8,87.3
+,"McCracken County, KY",21145,14,65864,Unreliable,Unreliable
+,"Madison County, KY",21151,18,84188,Unreliable,Unreliable
+,"Perry County, KY",21193,19,28751,Unreliable,Unreliable
+,"Pike County, KY",21195,36,64904,55.5,57.9
+,"Pulaski County, KY",21199,15,63657,Unreliable,Unreliable
+,"Warren County, KY",21227,20,115517,17.3,17.7
+,"Whitley County, KY",21235,15,35823,Unreliable,Unreliable
+,"Acadia Parish, LA",22001,16,61982,Unreliable,Unreliable
+,"Ascension Parish, LA",22005,11,109985,Unreliable,Unreliable
+,"Caddo Parish, LA",22017,29,257051,11.3,11.7
+,"Calcasieu Parish, LA",22019,24,194092,12.4,12.4
+,"East Baton Rouge Parish, LA",22033,26,441438,5.9,6.8
+,"Iberia Parish, LA",22045,10,73400,Unreliable,Unreliable
+,"Jefferson Parish, LA",22051,87,432640,20.1,20.4
+,"Lafayette Parish, LA",22055,29,224390,12.9,13.7
+,"Lafourche Parish, LA",22057,16,96666,Unreliable,Unreliable
+,"Livingston Parish, LA",22063,37,130251,28.4,27.9
+,"Orleans Parish, LA",22071,43,360740,11.9,11.8
+,"Ouachita Parish, LA",22073,10,154919,Unreliable,Unreliable
+,"Rapides Parish, LA",22079,20,132374,15.1,15.9
+,"St. Tammany Parish, LA",22103,48,236785,20.3,20.6
+,"Tangipahoa Parish, LA",22105,21,122571,17.1,18.6
+,"Terrebonne Parish, LA",22109,21,111917,18.8,17.5
+,"Androscoggin County, ME",23001,14,107398,Unreliable,Unreliable
+,"Aroostook County, ME",23003,14,71482,Unreliable,Unreliable
+,"Cumberland County, ME",23005,27,282401,9.6,9
+,"Kennebec County, ME",23011,16,121935,Unreliable,Unreliable
+,"Penobscot County, ME",23019,21,153786,13.7,14.6
+,"York County, ME",23031,23,198199,11.6,11.3
+,"Allegany County, MD",24001,16,74692,Unreliable,Unreliable
+,"Anne Arundel County, MD",24003,85,544403,15.6,15.1
+,"Baltimore County, MD",24005,119,809941,14.7,14.5
+,"Calvert County, MD",24009,15,89256,Unreliable,Unreliable
+,"Caroline County, MD",24011,13,32985,Unreliable,Unreliable
+,"Carroll County, MD",24013,17,167288,Unreliable,Unreliable
+,"Cecil County, MD",24015,33,101694,32.5,33.8
+,"Charles County, MD",24017,18,149130,Unreliable,Unreliable
+,"Frederick County, MD",24021,30,236745,12.7,12.8
+,"Harford County, MD",24025,41,246489,16.6,16.8
+,"Howard County, MD",24027,25,293142,8.5,8.7
+,"Montgomery County, MD",24031,44,989794,4.4,4.2
+,"Prince George's County, MD",24033,48,871233,5.5,5.2
+,"Washington County, MD",24043,22,148203,14.8,14.3
+,"Wicomico County, MD",24045,13,99190,Unreliable,Unreliable
+,"Baltimore city, MD",24510,140,619493,22.6,22.7
+,"Barnstable County, MA",25001,26,215769,12,14
+,"Berkshire County, MA",25003,19,130458,Unreliable,Unreliable
+,"Bristol County, MA",25005,103,548922,18.8,18.8
+,"Essex County, MA",25009,78,748930,10.4,10.8
+,"Hampden County, MA",25013,65,463783,14,14.4
+,"Hampshire County, MA",25015,12,157822,Unreliable,Unreliable
+,"Middlesex County, MA",25017,171,1518171,11.3,10.6
+,"Norfolk County, MA",25021,77,675436,11.4,11.4
+,"Plymouth County, MA",25023,80,497579,16.1,16.6
+,"Suffolk County, MA",25025,98,730932,13.4,13.7
+,"Worcester County, MA",25027,119,801227,14.9,14.8
+,"Bay County, MI",26017,26,107110,24.3,27.2
+,"Berrien County, MI",26021,22,156941,14,13.5
+,"Calhoun County, MI",26025,31,135490,22.9,23.9
+,"Cass County, MI",26027,14,51988,Unreliable,Unreliable
+,"Eaton County, MI",26045,10,108056,Unreliable,Unreliable
+,"Genesee County, MI",26049,89,422080,21.1,21.2
+,"Grand Traverse County, MI",26055,14,88349,Unreliable,Unreliable
+,"Ingham County, MI",26065,39,281613,13.8,15.5
+,"Kalamazoo County, MI",26077,37,252074,14.7,15.6
+,"Kent County, MI",26081,60,608453,9.9,10.2
+,"Lapeer County, MI",26087,13,88082,Unreliable,Unreliable
+,"Livingston County, MI",26093,18,181722,Unreliable,Unreliable
+,"Macomb County, MI",26099,211,842145,25.1,24.6
+,"Manistee County, MI",26101,12,24709,Unreliable,Unreliable
+,"Midland County, MI",26111,11,84063,Unreliable,Unreliable
+,"Monroe County, MI",26115,20,151560,13.2,13.9
+,"Muskegon County, MI",26121,31,171302,18.1,18.5
+,"Oakland County, MI",26125,76,1210145,6.3,6.1
+,"Ottawa County, MI",26139,30,266300,11.3,11.9
+,"Saginaw County, MI",26145,29,199088,14.6,14.4
+,"St. Clair County, MI",26147,38,161642,23.5,23.2
+,"Shiawassee County, MI",26155,15,69841,Unreliable,Unreliable
+,"Van Buren County, MI",26159,12,76131,Unreliable,Unreliable
+,"Washtenaw County, MI",26161,36,347962,10.3,10.2
+,"Wayne County, MI",26163,278,1802096,15.4,15.8
+,"Anoka County, MN",27003,40,333140,12,11.5
+,"Clay County, MN",27027,10,59803,Unreliable,Unreliable
+,"Dakota County, MN",27037,39,402006,9.7,9.2
+,"Hennepin County, MN",27053,123,1168431,10.5,9.9
+,"Olmsted County, MN",27109,11,145769,Unreliable,Unreliable
+,"Ramsey County, MN",27123,63,514696,12.2,12.3
+,"St. Louis County, MN",27137,21,200255,10.5,10.6
+,"Stearns County, MN",27145,14,151343,Unreliable,Unreliable
+,"Washington County, MN",27163,23,241280,9.5,9.2
+,"DeSoto County, MS",28033,14,164053,Unreliable,Unreliable
+,"Harrison County, MS",28047,43,191040,22.5,21.8
+,"Jackson County, MS",28059,30,139901,21.4,21.2
+,"Rankin County, MS",28121,27,143702,18.8,18.6
+,"Boone County, MO",29019,22,165627,13.3,14.1
+,"Butler County, MO",29023,16,43082,Unreliable,Unreliable
+,"Cape Girardeau County, MO",29031,11,76632,Unreliable,Unreliable
+,"Cass County, MO",29037,14,100052,Unreliable,Unreliable
+,"Christian County, MO",29043,11,78570,Unreliable,Unreliable
+,"Clay County, MO",29047,22,225161,9.8,9.6
+,"Franklin County, MO",29071,27,101938,26.5,27.5
+,"Greene County, MO",29077,64,277214,23.1,23.4
+,"Jackson County, MO",29095,92,676360,13.6,13.5
+,"Jasper County, MO",29097,17,118435,Unreliable,Unreliable
+,"Jefferson County, MO",29099,53,219480,24.1,24.5
+,"Newton County, MO",29145,10,58414,Unreliable,Unreliable
+,"Phelps County, MO",29161,17,45020,Unreliable,Unreliable
+,"Pulaski County, MO",29169,14,53175,Unreliable,Unreliable
+,"St. Charles County, MO",29183,62,365151,17,17.1
+,"St. Francois County, MO",29187,17,65577,Unreliable,Unreliable
+,"St. Louis County, MO",29189,161,998692,16.1,17
+,"St. Louis city, MO",29510,91,318069,28.6,27.6
+,"Cascade County, MT",30013,11,81837,Unreliable,Unreliable
+,"Lewis and Clark County, MT",30049,16,64318,Unreliable,Unreliable
+,"Missoula County, MT",30063,11,110138,Unreliable,Unreliable
+,"Yellowstone County, MT",30111,24,150069,16,15.8
+,"Douglas County, NE",31055,51,524861,9.7,9.4
+,"Lancaster County, NE",31109,20,289800,6.9,7.7
+,"Sarpy County, NE",31153,16,162561,Unreliable,Unreliable
+,"Clark County, NV",32003,456,1969975,23.1,22.8
+,"Douglas County, NV",32005,10,46886,Unreliable,Unreliable
+,"Nye County, NV",32023,13,43351,Unreliable,Unreliable
+,"Washoe County, NV",32031,120,425710,28.2,25.9
+,"Carson City, NV",32510,10,55439,Unreliable,Unreliable
+,"Belknap County, NH",33001,11,60223,Unreliable,Unreliable
+,"Cheshire County, NH",33005,17,76918,Unreliable,Unreliable
+,"Hillsborough County, NH",33011,73,401696,18.2,17.2
+,"Merrimack County, NH",33013,16,146579,Unreliable,Unreliable
+,"Rockingham County, NH",33015,45,296207,15.2,15.6
+,"Strafford County, NH",33017,17,123857,Unreliable,Unreliable
+,"Atlantic County, NJ",34001,59,274338,21.5,21.1
+,"Bergen County, NJ",34003,75,911004,8.2,8
+,"Burlington County, NJ",34005,59,449576,13.1,12.9
+,"Camden County, NJ",34007,120,513241,23.4,24.2
+,"Cape May County, NJ",34009,15,96601,Unreliable,Unreliable
+,"Cumberland County, NJ",34011,15,157095,Unreliable,Unreliable
+,"Essex County, NJ",34013,67,785137,8.5,8
+,"Gloucester County, NJ",34015,59,289104,20.4,20.7
+,"Hudson County, NJ",34017,50,641224,7.8,7.6
+,"Mercer County, NJ",34021,38,367063,10.4,9.9
+,"Middlesex County, NJ",34023,75,814217,9.2,9.1
+,"Monmouth County, NJ",34025,96,631020,15.2,14.9
+,"Morris County, NJ",34027,44,494976,8.9,9
+,"Ocean County, NJ",34029,84,579369,14.5,15.8
+,"Passaic County, NJ",34031,43,502007,8.6,8.6
+,"Salem County, NJ",34033,15,65902,Unreliable,Unreliable
+,"Somerset County, NJ",34035,28,324893,8.6,8.6
+,"Sussex County, NJ",34037,18,148517,Unreliable,Unreliable
+,"Union County, NJ",34039,29,539494,5.4,5.2
+,"Warren County, NJ",34041,14,108339,Unreliable,Unreliable
+,"Bernalillo County, NM",35001,206,670968,30.7,30.5
+,"Chaves County, NM",35005,19,65890,Unreliable,Unreliable
+,"Dona Ana County, NM",35013,36,213598,16.9,18.7
+,"Lea County, NM",35025,15,65423,Unreliable,Unreliable
+,"Otero County, NM",35035,14,65703,Unreliable,Unreliable
+,"Rio Arriba County, NM",35039,29,40446,71.7,72
+,"Sandoval County, NM",35043,28,134259,20.9,20.9
+,"San Juan County, NM",35045,21,128200,16.4,18.4
+,"San Miguel County, NM",35047,13,29301,Unreliable,Unreliable
+,"Santa Fe County, NM",35049,42,145648,28.8,30.3
+,"Valencia County, NM",35061,24,77070,31.1,33.5
+,"Albany County, NY",36001,30,303565,9.9,9.6
+,"Bronx County, NY",36005,134,1392002,9.6,9.8
+,"Broome County, NY",36007,24,199031,12.1,11.8
+,"Cayuga County, NY",36011,12,79738,Unreliable,Unreliable
+,"Chautauqua County, NY",36013,14,134368,Unreliable,Unreliable
+,"Chemung County, NY",36015,14,88840,Unreliable,Unreliable
+,"Clinton County, NY",36019,13,81945,Unreliable,Unreliable
+,"Dutchess County, NY",36027,38,297999,12.8,12.8
+,"Erie County, NY",36029,112,918028,12.2,12.3
+,"Jefferson County, NY",36045,18,117910,Unreliable,Unreliable
+,"Kings County, NY",36047,191,2532645,7.5,7.3
+,"Monroe County, NY",36055,70,745625,9.4,9.3
+,"Nassau County, NY",36059,148,1344436,11,11.5
+,"New York County, NY",36061,127,1601948,7.9,7.2
+,"Niagara County, NY",36063,24,216011,11.1,10.2
+,"Oneida County, NY",36065,16,234287,Unreliable,Unreliable
+,"Onondaga County, NY",36067,45,466960,9.6,9.6
+,"Orange County, NY",36071,52,374872,13.9,13.9
+,"Oswego County, NY",36075,17,122228,Unreliable,Unreliable
+,"Putnam County, NY",36079,10,99933,Unreliable,Unreliable
+,"Queens County, NY",36081,143,2247848,6.4,5.9
+,"Richmond County, NY",36085,79,470467,16.8,16.2
+,"Rockland County, NY",36087,19,315158,Unreliable,Unreliable
+,"Saratoga County, NY",36091,14,220882,Unreliable,Unreliable
+,"Schenectady County, NY",36093,13,155058,Unreliable,Unreliable
+,"Suffolk County, NY",36103,279,1498816,18.6,18.5
+,"Sullivan County, NY",36105,31,76900,40.3,40.4
+,"Tompkins County, NY",36109,11,101723,Unreliable,Unreliable
+,"Ulster County, NY",36111,25,182448,13.7,15.2
+,"Westchester County, NY",36119,91,955899,9.5,9
+,"Alamance County, NC",37001,21,153291,13.7,14.8
+,"Alexander County, NC",37003,10,37087,Unreliable,Unreliable
+,"Brunswick County, NC",37019,29,110097,26.3,28.8
+,"Buncombe County, NC",37021,36,241419,14.9,15.1
+,"Burke County, NC",37023,16,90904,Unreliable,Unreliable
+,"Cabarrus County, NC",37025,17,181468,Unreliable,Unreliable
+,"Caldwell County, NC",37027,13,82395,Unreliable,Unreliable
+,"Carteret County, NC",37031,18,67373,Unreliable,Unreliable
+,"Catawba County, NC",37035,29,154181,18.8,19.1
+,"Cherokee County, NC",37039,18,27194,Unreliable,Unreliable
+,"Cleveland County, NC",37045,13,97489,Unreliable,Unreliable
+,"Columbus County, NC",37047,13,57712,Unreliable,Unreliable
+,"Cumberland County, NC",37051,47,324885,14.5,14.3
+,"Davidson County, NC",37057,37,162697,22.7,23.2
+,"Durham County, NC",37063,27,273392,9.9,9.9
+,"Forsyth County, NC",37067,53,354952,14.9,14.6
+,"Gaston County, NC",37071,43,207031,20.8,21.7
+,"Guilford County, NC",37081,51,495279,10.3,10.3
+,"Harnett County, NC",37085,13,119256,Unreliable,Unreliable
+,"Henderson County, NC",37089,17,107927,Unreliable,Unreliable
+,"Iredell County, NC",37097,36,161202,22.3,22.6
+,"Johnston County, NC",37101,20,172595,11.6,11.2
+,"Lee County, NC",37105,11,58752,Unreliable,Unreliable
+,"Lenoir County, NC",37107,12,59339,Unreliable,Unreliable
+,"Lincoln County, NC",37109,14,78932,Unreliable,Unreliable
+,"Mecklenburg County, NC",37119,79,944373,8.4,8.2
+,"Nash County, NC",37127,11,96116,Unreliable,Unreliable
+,"New Hanover County, NC",37129,39,206189,18.9,17.9
+,"Onslow County, NC",37133,23,179719,12.8,12.4
+,"Orange County, NC",37135,15,135755,Unreliable,Unreliable
+,"Randolph County, NC",37151,24,142358,16.9,18.5
+,"Richmond County, NC",37153,11,46611,Unreliable,Unreliable
+,"Robeson County, NC",37155,23,135517,17,17.4
+,"Rockingham County, NC",37157,18,93329,Unreliable,Unreliable
+,"Rowan County, NC",37159,37,138019,26.8,28.5
+,"Rutherford County, NC",37161,17,67538,Unreliable,Unreliable
+,"Sampson County, NC",37163,11,63734,Unreliable,Unreliable
+,"Stanly County, NC",37167,11,60626,Unreliable,Unreliable
+,"Stokes County, NC",37169,14,47242,Unreliable,Unreliable
+,"Surry County, NC",37171,16,73714,Unreliable,Unreliable
+,"Wake County, NC",37183,58,929780,6.2,5.9
+,"Wayne County, NC",37191,15,123697,Unreliable,Unreliable
+,"Wilkes County, NC",37193,10,68984,Unreliable,Unreliable
+,"Allen County, OH",39003,10,106094,Unreliable,Unreliable
+,"Ashtabula County, OH",39007,21,101345,20.7,20.7
+,"Athens County, OH",39009,13,64769,Unreliable,Unreliable
+,"Brown County, OH",39015,15,44687,Unreliable,Unreliable
+,"Butler County, OH",39017,88,369999,23.8,24.8
+,"Clark County, OH",39023,37,137691,26.9,27.4
+,"Clermont County, OH",39025,48,199139,24.1,24.1
+,"Columbiana County, OH",39029,19,107570,Unreliable,Unreliable
+,"Cuyahoga County, OH",39035,230,1270294,18.1,17.5
+,"Delaware County, OH",39041,14,178341,Unreliable,Unreliable
+,"Erie County, OH",39043,12,76751,Unreliable,Unreliable
+,"Fairfield County, OH",39045,16,147066,Unreliable,Unreliable
+,"Franklin County, OH",39049,244,1178799,20.7,20.3
+,"Geauga County, OH",39055,14,93228,Unreliable,Unreliable
+,"Greene County, OH",39057,26,162846,16,18.2
+,"Hamilton County, OH",39061,180,800362,22.5,22.8
+,"Hancock County, OH",39063,11,75056,Unreliable,Unreliable
+,"Jefferson County, OH",39081,26,68828,37.8,42.6
+,"Knox County, OH",39083,11,61275,Unreliable,Unreliable
+,"Lake County, OH",39085,50,229885,21.8,21.7
+,"Lawrence County, OH",39087,17,62489,Unreliable,Unreliable
+,"Licking County, OH",39089,25,167248,14.9,15.5
+,"Lorain County, OH",39093,33,301614,10.9,11
+,"Lucas County, OH",39095,65,440005,14.8,14.7
+,"Mahoning County, OH",39099,49,237270,20.7,21.8
+,"Marion County, OH",39101,13,66212,Unreliable,Unreliable
+,"Medina County, OH",39103,18,173262,Unreliable,Unreliable
+,"Miami County, OH",39109,16,102857,Unreliable,Unreliable
+,"Montgomery County, OH",39113,132,537602,24.6,24.7
+,"Pickaway County, OH",39129,15,55990,Unreliable,Unreliable
+,"Pike County, OH",39131,13,28628,Unreliable,Unreliable
+,"Richland County, OH",39139,17,123510,Unreliable,Unreliable
+,"Ross County, OH",39141,20,78249,25.6,22.9
+,"Sandusky County, OH",39143,14,60734,Unreliable,Unreliable
+,"Scioto County, OH",39145,25,79277,31.5,33
+,"Stark County, OH",39151,46,375087,12.3,12.4
+,"Summit County, OH",39153,65,539832,12,11.9
+,"Trumbull County, OH",39155,60,209264,28.7,31
+,"Tuscarawas County, OH",39157,16,92508,Unreliable,Unreliable
+,"Warren County, OH",39165,32,214910,14.9,15.3
+,"Wayne County, OH",39169,14,114611,Unreliable,Unreliable
+,"Bryan County, OK",40013,11,43089,Unreliable,Unreliable
+,"Canadian County, OK",40017,20,119492,16.7,16.9
+,"Carter County, OK",40019,20,48096,41.6,42.7
+,"Cleveland County, OK",40027,37,261281,14.2,13.8
+,"Comanche County, OK",40031,14,125815,Unreliable,Unreliable
+,"Creek County, OK",40037,20,70467,28.4,27.2
+,"Garfield County, OK",40047,11,60670,Unreliable,Unreliable
+,"Le Flore County, OK",40079,16,50628,Unreliable,Unreliable
+,"Muskogee County, OK",40101,16,71003,Unreliable,Unreliable
+,"Oklahoma County, OK",40109,142,732371,19.4,19.8
+,"Payne County, OK",40119,11,77988,Unreliable,Unreliable
+,"Pittsburg County, OK",40121,10,45625,Unreliable,Unreliable
+,"Pontotoc County, OK",40123,18,37799,Unreliable,Unreliable
+,"Pottawatomie County, OK",40125,18,70280,Unreliable,Unreliable
+,"Rogers County, OK",40131,12,87706,Unreliable,Unreliable
+,"Stephens County, OK",40137,11,45197,Unreliable,Unreliable
+,"Tulsa County, OK",40143,112,610599,18.3,18.6
+,"Wagoner County, OK",40145,13,74098,Unreliable,Unreliable
+,"Washington County, OK",40147,13,51476,Unreliable,Unreliable
+,"Benton County, OR",41003,10,85928,Unreliable,Unreliable
+,"Clackamas County, OR",41005,48,380207,12.6,13.3
+,"Clatsop County, OR",41007,12,37153,Unreliable,Unreliable
+,"Deschutes County, OR",41017,20,160338,12.5,13.4
+,"Douglas County, OR",41019,13,107490,Unreliable,Unreliable
+,"Jackson County, OR",41029,32,204822,15.6,16.3
+,"Josephine County, OR",41033,16,82987,Unreliable,Unreliable
+,"Klamath County, OR",41035,11,66299,Unreliable,Unreliable
+,"Lane County, OR",41039,52,353416,14.7,16.1
+,"Linn County, OR",41043,22,118122,18.6,17.3
+,"Marion County, OR",41047,33,318872,10.3,10.7
+,"Multnomah County, OR",41051,148,748031,19.8,17.7
+,"Washington County, OR",41067,51,540410,9.4,9.2
+,"Yamhill County, OR",41071,12,100000,Unreliable,Unreliable
+,"Adams County, PA",42001,11,101434,Unreliable,Unreliable
+,"Allegheny County, PA",42003,247,1227066,20.1,20.8
+,"Armstrong County, PA",42005,15,68568,Unreliable,Unreliable
+,"Beaver County, PA",42007,38,170414,22.3,24.7
+,"Berks County, PA",42011,65,412778,15.7,16
+,"Blair County, PA",42013,26,127099,20.5,23
+,"Bradford County, PA",42015,10,62917,Unreliable,Unreliable
+,"Bucks County, PA",42017,135,626854,21.5,22.1
+,"Butler County, PA",42019,30,184848,16.2,17
+,"Cambria County, PA",42021,27,143728,18.8,20.5
+,"Carbon County, PA",42025,14,65154,Unreliable,Unreliable
+,"Chester County, PA",42029,73,503897,14.5,14.1
+,"Clearfield County, PA",42033,10,81445,Unreliable,Unreliable
+,"Crawford County, PA",42039,12,88740,Unreliable,Unreliable
+,"Cumberland County, PA",42041,24,237892,10.1,10.1
+,"Dauphin County, PA",42043,32,268977,11.9,11.5
+,"Delaware County, PA",42045,148,559494,26.5,27.2
+,"Erie County, PA",42049,49,280985,17.4,18.2
+,"Fayette County, PA",42051,43,136097,31.6,33.5
+,"Franklin County, PA",42055,14,150811,Unreliable,Unreliable
+,"Greene County, PA",42059,10,38623,Unreliable,Unreliable
+,"Indiana County, PA",42063,24,89298,26.9,30.9
+,"Lackawanna County, PA",42069,41,214166,19.1,20.6
+,"Lancaster County, PA",42071,59,523594,11.3,11.6
+,"Lawrence County, PA",42073,22,90535,24.3,26.4
+,"Lehigh County, PA",42077,61,352947,17.3,18.3
+,"Luzerne County, PA",42079,54,320651,16.8,18
+,"Lycoming County, PA",42081,10,116747,Unreliable,Unreliable
+,"Mercer County, PA",42085,17,116205,Unreliable,Unreliable
+,"Monroe County, PA",42089,23,169882,13.5,13.2
+,"Montgomery County, PA",42091,113,804210,14.1,13.8
+,"Northampton County, PA",42095,46,298476,15.4,16.2
+,"Northumberland County, PA",42097,12,94558,Unreliable,Unreliable
+,"Philadelphia County, PA",42101,436,1536471,28.4,28.9
+,"Pike County, PA",42103,12,56852,Unreliable,Unreliable
+,"Schuylkill County, PA",42107,24,147513,16.3,17
+,"Venango County, PA",42121,13,54683,Unreliable,Unreliable
+,"Washington County, PA",42125,39,208282,18.7,20.8
+,"Westmoreland County, PA",42129,79,364471,21.7,20.6
+,"York County, PA",42133,57,436770,13.1,13
+,"Kent County, RI",44003,43,165535,26,24.7
+,"Providence County, RI",44007,116,626709,18.5,18
+,"Washington County, RI",44009,19,126563,Unreliable,Unreliable
+,"Aiken County, SC",45003,24,160682,14.9,14.8
+,"Anderson County, SC",45007,34,188488,18,18.6
+,"Beaufort County, SC",45013,17,164684,Unreliable,Unreliable
+,"Berkeley County, SC",45015,19,183525,Unreliable,Unreliable
+,"Charleston County, SC",45019,55,357704,15.4,14.7
+,"Dorchester County, SC",45035,14,140892,Unreliable,Unreliable
+,"Florence County, SC",45041,14,137862,Unreliable,Unreliable
+,"Greenville County, SC",45045,71,461299,15.4,15.2
+,"Horry County, SC",45051,30,276340,10.9,11.8
+,"Lancaster County, SC",45057,12,77908,Unreliable,Unreliable
+,"Lexington County, SC",45063,44,267129,16.5,16.1
+,"Oconee County, SC",45073,21,74418,28.2,28.3
+,"Pickens County, SC",45077,32,119574,26.8,27.9
+,"Richland County, SC",45079,37,389116,9.5,9.2
+,"Spartanburg County, SC",45083,60,286868,20.9,20.5
+,"York County, SC",45091,31,230528,13.4,13.4
+,"Minnehaha County, SD",46099,13,171752,Unreliable,Unreliable
+,"Anderson County, TN",47001,18,75233,Unreliable,Unreliable
+,"Blount County, TN",47009,24,123901,19.4,19.3
+,"Bradley County, TN",47011,17,100055,Unreliable,Unreliable
+,"Campbell County, TN",47013,16,40512,Unreliable,Unreliable
+,"Carter County, TN",47019,15,57185,Unreliable,Unreliable
+,"Cheatham County, TN",47021,12,39078,Unreliable,Unreliable
+,"Cumberland County, TN",47035,10,56632,Unreliable,Unreliable
+,"Davidson County, TN",47037,104,635475,16.4,16.1
+,"Greene County, TN",47059,15,69339,Unreliable,Unreliable
+,"Hamblen County, TN",47063,27,63062,42.8,46.5
+,"Hamilton County, TN",47065,46,340855,13.5,13.7
+,"Hardin County, TN",47071,10,25874,Unreliable,Unreliable
+,"Hawkins County, TN",47073,25,56671,44.1,48.1
+,"Jefferson County, TN",47089,12,51666,Unreliable,Unreliable
+,"Knox County, TN",47093,86,436929,19.7,19.5
+,"Loudon County, TN",47105,11,49237,Unreliable,Unreliable
+,"McMinn County, TN",47107,12,52508,Unreliable,Unreliable
+,"Madison County, TN",47113,11,98255,Unreliable,Unreliable
+,"Montgomery County, TN",47125,20,176619,11.3,11.8
+,"Overton County, TN",47133,15,22169,Unreliable,Unreliable
+,"Putnam County, TN",47141,15,72958,Unreliable,Unreliable
+,"Roane County, TN",47145,22,53838,40.9,43.1
+,"Robertson County, TN",47147,14,67106,Unreliable,Unreliable
+,"Rutherford County, TN",47149,19,268921,Unreliable,Unreliable
+,"Sevier County, TN",47155,14,91466,Unreliable,Unreliable
+,"Shelby County, TN",47157,99,935088,10.6,10.3
+,"Sullivan County, TN",47163,23,157419,14.6,14.8
+,"Sumner County, TN",47165,22,163686,13.4,14
+,"Washington County, TN",47179,21,124353,16.9,17.7
+,"Williamson County, TN",47187,20,188560,10.6,10.7
+,"Wilson County, TN",47189,19,116617,Unreliable,Unreliable
+,"Angelina County, TX",48005,14,87669,Unreliable,Unreliable
+,"Bastrop County, TX",48021,10,75115,Unreliable,Unreliable
+,"Bell County, TX",48027,23,315196,7.3,7.9
+,"Bexar County, TX",48029,264,1756153,15,15
+,"Brazoria County, TX",48039,44,319973,13.8,13.1
+,"Brazos County, TX",48041,19,197632,Unreliable,Unreliable
+,"Cameron County, TX",48061,11,414123,Unreliable,Unreliable
+,"Collin County, TX",48085,69,812226,8.5,8.6
+,"Comal County, TX",48091,11,111963,Unreliable,Unreliable
+,"Dallas County, TX",48113,240,2416014,9.9,10
+,"Denton County, TX",48121,72,686406,10.5,10.1
+,"Ector County, TX",48135,17,140111,Unreliable,Unreliable
+,"El Paso County, TX",48141,63,820790,7.7,8.2
+,"Fort Bend County, TX",48157,40,606953,6.6,6.5
+,"Galveston County, TX",48167,46,295747,15.6,14.4
+,"Grayson County, TX",48181,24,121419,19.8,21
+,"Gregg County, TX",48183,13,123081,Unreliable,Unreliable
+,"Guadalupe County, TX",48187,12,135757,Unreliable,Unreliable
+,"Hardin County, TX",48199,11,55246,Unreliable,Unreliable
+,"Harris County, TX",48201,385,4180894,9.2,9.2
+,"Hays County, TX",48209,12,164050,Unreliable,Unreliable
+,"Hidalgo County, TX",48215,20,797810,2.5,2.8
+,"Hunt County, TX",48231,11,86531,Unreliable,Unreliable
+,"Jefferson County, TX",48245,35,252802,13.8,13.3
+,"Johnson County, TX",48251,12,152734,Unreliable,Unreliable
+,"Kaufman County, TX",48257,10,105358,Unreliable,Unreliable
+,"Kerr County, TX",48265,11,49783,Unreliable,Unreliable
+,"Liberty County, TX",48291,12,76206,Unreliable,Unreliable
+,"Lubbock County, TX",48303,23,283910,8.1,9.9
+,"McLennan County, TX",48309,12,238564,Unreliable,Unreliable
+,"Midland County, TX",48329,15,140308,Unreliable,Unreliable
+,"Montgomery County, TX",48339,44,471734,9.3,9.7
+,"Nueces County, TX",48355,64,343281,18.6,18.3
+,"Orange County, TX",48361,19,82487,Unreliable,Unreliable
+,"Parker County, TX",48367,12,118376,Unreliable,Unreliable
+,"Polk County, TX",48373,10,45725,Unreliable,Unreliable
+,"Potter County, TX",48375,16,122285,Unreliable,Unreliable
+,"Smith County, TX",48423,25,213381,11.7,12
+,"Tarrant County, TX",48439,177,1849815,9.6,9.6
+,"Taylor County, TX",48441,14,132755,Unreliable,Unreliable
+,"Tom Green County, TX",48451,10,111823,Unreliable,Unreliable
+,"Travis County, TX",48453,154,1063130,14.5,14
+,"Victoria County, TX",48469,15,87545,Unreliable,Unreliable
+,"Webb County, TX",48479,19,256496,Unreliable,Unreliable
+,"Wichita County, TX",48485,25,130698,19.1,18.2
+,"Williamson County, TX",48491,38,442782,8.6,8.5
+,"Box Elder County, UT",49003,10,50290,Unreliable,Unreliable
+,"Carbon County, UT",49007,15,21318,Unreliable,Unreliable
+,"Davis County, UT",49011,31,311811,9.9,10.8
+,"Iron County, UT",49021,16,46740,Unreliable,Unreliable
+,"Salt Lake County, UT",49035,214,1048985,20.4,21.1
+,"Tooele County, UT",49045,12,59326,Unreliable,Unreliable
+,"Utah County, UT",49049,90,530499,17,20.5
+,"Washington County, UT",49053,21,141666,14.8,16.2
+,"Weber County, UT",49057,59,234420,25.2,27.3
+,"Chittenden County, VT",50007,21,157491,13.3,12.8
+,"Rutland County, VT",50021,12,61289,Unreliable,Unreliable
+,"Windham County, VT",50025,10,44266,Unreliable,Unreliable
+,"Arlington County, VA",51013,10,216004,Unreliable,Unreliable
+,"Buchanan County, VA",51027,10,23581,Unreliable,Unreliable
+,"Chesterfield County, VA",51041,31,320277,9.7,9.5
+,"Dickenson County, VA",51051,10,15741,Unreliable,Unreliable
+,"Fairfax County, VA",51059,52,1100692,4.7,4.5
+,"Fauquier County, VA",51061,15,66071,Unreliable,Unreliable
+,"Franklin County, VA",51067,13,56419,Unreliable,Unreliable
+,"Frederick County, VA",51069,10,79666,Unreliable,Unreliable
+,"Henrico County, VA",51087,34,310445,11,11.2
+,"Henry County, VA",51089,12,53741,Unreliable,Unreliable
+,"Loudoun County, VA",51107,17,325405,Unreliable,Unreliable
+,"Montgomery County, VA",51121,13,94342,Unreliable,Unreliable
+,"Prince William County, VA",51153,29,419006,6.9,6.7
+,"Pulaski County, VA",51155,10,34607,Unreliable,Unreliable
+,"Russell County, VA",51167,14,28749,Unreliable,Unreliable
+,"Spotsylvania County, VA",51177,14,124327,Unreliable,Unreliable
+,"Tazewell County, VA",51185,24,44715,53.7,60.5
+,"Washington County, VA",51191,11,54827,Unreliable,Unreliable
+,"Wise County, VA",51195,14,41565,Unreliable,Unreliable
+,"Alexandria city, VA",51510,11,144301,Unreliable,Unreliable
+,"Chesapeake city, VA",51550,16,225050,Unreliable,Unreliable
+,"Hampton city, VA",51650,13,136401,Unreliable,Unreliable
+,"Newport News city, VA",51700,12,179611,Unreliable,Unreliable
+,"Norfolk city, VA",51710,30,242628,12.4,13.2
+,"Portsmouth city, VA",51740,13,95684,Unreliable,Unreliable
+,"Richmond city, VA",51760,34,205533,16.5,15.4
+,"Roanoke city, VA",51770,15,96714,Unreliable,Unreliable
+,"Virginia Beach city, VA",51810,41,442707,9.3,8.9
+,"Benton County, WA",53005,19,180678,Unreliable,Unreliable
+,"Chelan County, WA",53007,15,73477,Unreliable,Unreliable
+,"Clallam County, WA",53009,12,71838,Unreliable,Unreliable
+,"Clark County, WA",53011,58,433418,13.4,13.9
+,"Cowlitz County, WA",53015,30,102478,29.3,32.3
+,"Grant County, WA",53025,10,91265,Unreliable,Unreliable
+,"Grays Harbor County, WA",53027,11,72546,Unreliable,Unreliable
+,"King County, WA",53033,236,1969722,12,11
+,"Kitsap County, WA",53035,34,254633,13.4,13.4
+,"Lewis County, WA",53041,18,75901,Unreliable,Unreliable
+,"Pierce County, WA",53053,131,807904,16.2,15.6
+,"Skagit County, WA",53057,17,118109,Unreliable,Unreliable
+,"Snohomish County, WA",53061,175,722400,24.2,22.6
+,"Spokane County, WA",53063,76,473761,16,16.5
+,"Thurston County, WA",53067,34,256591,13.3,13.2
+,"Whatcom County, WA",53073,23,203663,11.3,11.8
+,"Yakima County, WA",53077,15,247141,Unreliable,Unreliable
+,"Berkeley County, WV",54003,28,105750,26.5,26.2
+,"Boone County, WV",54005,27,24444,110.5,114.4
+,"Brooke County, WV",54009,14,23844,Unreliable,Unreliable
+,"Cabell County, WV",54011,41,96653,42.4,46.9
+,"Fayette County, WV",54019,20,45699,43.8,43.9
+,"Greenbrier County, WV",54025,12,35800,Unreliable,Unreliable
+,"Harrison County, WV",54033,25,69436,36,37.4
+,"Jefferson County, WV",54037,11,54225,Unreliable,Unreliable
+,"Kanawha County, WV",54039,69,192315,35.9,37.5
+,"Lincoln County, WV",54043,15,21550,Unreliable,Unreliable
+,"Logan County, WV",54045,24,36457,65.8,68.2
+,"McDowell County, WV",54047,26,21729,119.7,127
+,"Mercer County, WV",54055,50,62465,80,89.1
+,"Mingo County, WV",54059,18,26563,Unreliable,Unreliable
+,"Nicholas County, WV",54067,14,26268,Unreliable,Unreliable
+,"Putnam County, WV",54079,14,56008,Unreliable,Unreliable
+,"Raleigh County, WV",54081,58,79127,73.3,79.5
+,"Wayne County, WV",54099,18,42126,Unreliable,Unreliable
+,"Wood County, WV",54107,12,87120,Unreliable,Unreliable
+,"Wyoming County, WV",54109,31,23419,132.4,142.8
+,"Brown County, WI",55009,28,251412,11.1,10.9
+,"Dane County, WI",55025,79,495959,15.9,15
+,"Dodge County, WI",55027,10,88661,Unreliable,Unreliable
+,"Kenosha County, WI",55059,29,167293,17.3,17.6
+,"La Crosse County, WI",55063,10,115572,Unreliable,Unreliable
+,"Milwaukee County, WI",55079,191,952532,20.1,20.2
+,"Outagamie County, WI",55087,11,177913,Unreliable,Unreliable
+,"Racine County, WI",55101,19,195388,Unreliable,Unreliable
+,"Rock County, WI",55105,32,160092,20,18.8
+,"Sauk County, WI",55111,15,62290,Unreliable,Unreliable
+,"Sheboygan County, WI",55117,18,115149,Unreliable,Unreliable
+,"Walworth County, WI",55127,14,102931,Unreliable,Unreliable
+,"Washington County, WI",55131,14,132386,Unreliable,Unreliable
+,"Waukesha County, WI",55133,50,390730,12.8,12.7
+,"Winnebago County, WI",55139,26,167699,15.5,15.6
+,"Laramie County, WY",56021,14,92680,Unreliable,Unreliable
+,"Natrona County, WY",56025,10,76366,Unreliable,Unreliable
+Total,,,41340,311591917,13.3,13.2
+---,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2016",,,,,,
+Query Parameters:,,,,,,
+Title:,,,,,,
+2013 Urbanization: All,,,,,,
+Autopsy: All,,,,,,
+Gender: All,,,,,,
+Hispanic Origin: All,,,,,,
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41",,,,,,
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not",,,,,,
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not",,,,,,
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44",,,,,,
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional",,,,,,
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and",,,,,,
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62",,,,,,
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63",,,,,,
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional",,,,,,
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X85 (Assault by drugs,",,,,,,
+"medicaments and biological substances), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,",,,,,,
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic",,,,,,
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics",,,,,,
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the",,,,,,
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and",,,,,,
+"biological substances, undetermined intent)",,,,,,
+Place of Death: All,,,,,,
+Race: All,,,,,,
+States: All,,,,,,
+Ten-Year Age Groups: All,,,,,,
+Weekday: All,,,,,,
+Year/Month: 2011,,,,,,
+Group By: County,,,,,,
+Show Totals: True,,,,,,
+Show Zero Values: False,,,,,,
+Show Suppressed: False,,,,,,
+Standard Population: 2000 U.S. Std. Population,,,,,,
+"Calculate Rates Per: 100,000",,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,
+---,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,
+---,,,,,,
+"Query Date: Apr 29, 2018 10:11:28 PM",,,,,,
+---,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death",,,,,,
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as",,,,,,
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 29, 2018 10:11:28 PM",,,,,,
+---,,,,,,
+Messages:,,,,,,
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above",,,,,,
+to show zero rows.,,,,,,
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use",,,,,,
+Quick Options above to show suppressed rows.,,,,,,
+---,,,,,,
+Footnotes:,,,,,,
+1. Data are not available for this area for all of the requested years. See Caveats below for more information.,,,,,,
+---,,,,,,
+Caveats:,,,,,,
+"1. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway",,,,,,
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS",,,,,,
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and",,,,,,
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years",,,,,,
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014.",,,,,,
+"2. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death",,,,,,
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code",,,,,,
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;",,,,,,
+for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge.,,,,,,
+"3. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510).",,,,,,
+4. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code,,,,,,
+24005).,,,,,,
+5. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189).,,,,,,
+6. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,
+7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,
+8. The populations used to calculate standard age-adjusted rates are documented here: More information:,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population.,,,,,,
+9. The method used to calculate age-adjusted rates is documented here: More information:,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates.,,,,,,
+"10. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates.",,,,,,
+"11. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016",,,,,,
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July",,,,,,
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for",,,,,,
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS",,,,,,
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the",,,,,,
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race",,,,,,
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The",,,,,,
+"population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal",,,,,,
+"series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for",,,,,,
+"years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 -",,,,,,
+"2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for",,,,,,
+1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number,,,,,,
+of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published,,,,,,
+"reports, due to use of the population estimates which were available at the time of release.",,,,,,
+12. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,
+13. Changes to cause of death classification affect reporting trends. More information:,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.,,,,,,
